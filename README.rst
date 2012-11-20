@@ -1,7 +1,7 @@
 Récupérer ce dépot
 ==================
 
-Récupérez les sources du blog, y compris les sous modules::
+Récupérez les sources du blog::
 
     hg clone http://hg.afpy.org/blog
 
@@ -9,7 +9,7 @@ Comment générer le blog?
 ========================
 
 Pour générer le blog, vous avez besoin d'installer pelican en local. Vous
-pouvez faire ça en tapant "pip install pelican".
+pouvez faire ça en tapant "make install"
 
 Une fois pelican installé, vous ajoutez du contenu dans "src" et vous tapez
 "make html", et paf, l'output est regénéré dans le dossier "output".

@@ -1,4 +1,4 @@
-PELICAN=pelican
+PELICAN=venv/bin/pelican
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
@@ -14,3 +14,7 @@ $(OUTPUTDIR)/%.html:
 clean:
 	rm -fr $(OUTPUTDIR)
 	mkdir $(OUTPUTDIR)
+
+install:
+	virtualenv venv
+	source venv/bin/pip install pelican
