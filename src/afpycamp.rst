@@ -3,6 +3,7 @@ Afpy Computer Camp
 
 :category: news
 :author: Alexis Métaireau
+:date: 10/07/2012
 
 Ce week-end, l'Afpy était réuni à la villa des mouches, chez Tarek, pour l'Afpy
 Computer Camp, dans la belle bourgade de Turcey, en côte d'or.
