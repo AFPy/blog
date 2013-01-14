@@ -1,4 +1,4 @@
-PELICAN=venv/bin/pelican
+PELICAN=pelican
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
