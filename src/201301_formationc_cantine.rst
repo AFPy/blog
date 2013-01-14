@@ -6,7 +6,7 @@ Vous apprendrez bien un peu Python ?
 :date: 13/01/2013
 
 L'APFy vous propose de venir découvrir son univers fantastique, **le 16
-Janvier 2012 de 19h00 à 22h00**.
+Janvier 2013 de 19h00 à 22h00**.
 
 Au travers d'un atelier pratique et vivant, venez découvrir les joies de la
 programmation en langage Python !

@@ -9,6 +9,7 @@ html: clean $(OUTPUTDIR)/index.html
 	@echo 'Done'
 
 $(OUTPUTDIR)/%.html:
+	source venv/bin/activate
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE)
 
 clean:
