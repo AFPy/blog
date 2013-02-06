@@ -4,7 +4,6 @@ FOSDEM'13
 :category: event
 :author: Nelle Varoquaux
 :date: 05/02/2013
-:status: draft
 
 Le week-end dernier a eu lieu le `FOSDEM <https://fosdem.org/2013>`_, la
 rencontre des developeurs open source d'europe. Cette conférence sur
