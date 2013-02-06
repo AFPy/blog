@@ -1,0 +1,32 @@
+FOSDEM'13
+================================================================================
+
+:category: event
+:author: Nelle Varoquaux
+:date: 05/02/2013
+:status: draft
+
+Il y a quelques jours a eu lieu le `FOSDEM <https://fosdem.org/2013>`_. Cette
+conférence sur l'opensource attire quelques milliers de visiteurs dans la
+charmante ville de Bruxelles.
+
+Pour la première fois depuis `2007
+<https://archive.fosdem.org/2007/schedule/devroom/python.html>`_, une `Python
+devroom <https://archive.fosdem.org/2007/schedule/devroom/python.html>`_ était
+organisée. 16 conférenciers sont venus de partout dans le monde présenter des
+sujets allant de Plone à l'analyse de données par la fondation Wikimedia,
+passant par la découverte d'astuces Pythoniques. La salle fut un grand succès,
+que ce soit par la variété des sujets et des conférenciers, que par la
+présence d'un public particulièrement nombreux.
+
+.. figure:: http://awesomeness.openphoto.me/custom/201302/fosdem--24-of-29--16dc52_870x870.jpg
+  :width: 70 %
+  :align: center
+
+  La Python devroom, ou comment caser 200 développeurs dans une salle prévue
+  pour 40 personnes (courtesy of `Tarek Ziadé <http://blog.ziade.org/>`_
+
+Un grand merci à `Stéphane Wirtel <http://wirtel.be/>`_, `Ludovic Gasc
+<https://twitter.com/gmludo>`_, `Christophe Simonis
+<https://twitter.com/kangol>`_ et tous les autres organisateurs pour cette
+formidable journée !
