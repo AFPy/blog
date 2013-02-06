@@ -1,4 +1,4 @@
-PELICAN=pelican
+PELICAN=venv/bin/pelican
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
@@ -9,7 +9,6 @@ html: clean $(OUTPUTDIR)/index.html
 	@echo 'Done'
 
 $(OUTPUTDIR)/%.html:
-	. venv/bin/activate
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE)
 
 clean:
