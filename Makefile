@@ -17,4 +17,4 @@ clean:
 
 install:
 	virtualenv venv
-	source venv/bin/pip install pelican
+	venv/bin/pip install pelican
