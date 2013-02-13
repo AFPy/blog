@@ -20,10 +20,16 @@ body {
 	background-image: -webkit-linear-gradient( rgba(0,0,0,0.22), rgba(255,255,255,0) 80px );
 	color: #555;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	margin: 0;
 	text-align: center;
 }
+
+p {
+  font-size: 14px;
+  line-height: 1.2em;
+}
+
 #container {
 	height: auto;
 	margin: 0 auto;
