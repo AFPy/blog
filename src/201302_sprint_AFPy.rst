@@ -13,7 +13,7 @@ plusieurs framework différents (principalement plone et pylons). Le but du
 sprint est d'achever la migration vers une version récente de plone et de
 refaire le design, afin de déployer le nouveau site.
 
-Le sprint aura lieu samedi 30 Mars et dimance 31 Mars, à `Bearstech
+Le sprint aura lieu samedi 30 Mars et dimanche 31 Mars, à `Bearstech
 <http://bearstech.com/>`_.
 
 `Emencia <http://www.emencia.com/>`_ financera l'évènement.
