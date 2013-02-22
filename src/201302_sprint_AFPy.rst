@@ -4,8 +4,6 @@ Sprint AFPy le 30, 31 Mars
 :category: event
 :author: Nelle Varoquaux
 :date: 13/02/2013
-:status: draft
-
 
 Nous organisons un sprint pour continuer la refonte du site de l'AFPy. Le site
 est construit à partir de plusieurs applications différentes, tournant sur
