@@ -1,7 +1,7 @@
 Comment écrire un blog post ?
 =============================
 
-:category: news 
+:category: news
 :author: Nelle Varoquaux
 :date: 30/03/2013
 
@@ -13,16 +13,18 @@ souhaitent. La procédure est simple:
 
     hg clone http://hg.afpy.org/blog
 
-- vérifier que le blog se compile bien correctement: après avoir installer
-  pelican en local, taper::
+- vérifiez que le blog se compile bien correctement: après avoir installer
+  pelican en local, tapez::
 
     make install
 
-- pusher votre code sur le hg de l'afpy::
+- pushez votre code sur le hg de l'afpy::
 
     hg add votre_fichier.py
     hg commit -m "votre message" -u username
     hg push
+
+- et voilà !
 
 Si vous souhaitez uniquement proposer un article, vous pouvez utiliser la
 fonctionalité de "draft" de pelican, il suffit de mettre ":status: draft"
