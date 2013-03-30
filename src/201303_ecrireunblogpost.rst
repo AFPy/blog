@@ -9,18 +9,20 @@ Comment écrire un blog post ?
 Tous les membres de l'AFPy peuvent proposer un article si ils le
 souhaitent. La procédure est simple:
 
-  - récupérez les sources du blog::
+- récupérez les sources du blog::
 
-      hg clone http://hg.afpy.org/blog
+    hg clone http://hg.afpy.org/blog
 
-  - vérifier que le blog se compile bien correctement: après avoir installer
-  pelican en local, taper::
-      make install
+- vérifier que le blog se compile bien correctement: après avoir installer
+pelican en local, taper::
 
-  - pusher votre code sur le hg de l'afpy::
-      hg add votre_fichier.py
-      hg commit -m "votre message" -u username
-      hg push
+    make install
+
+- pusher votre code sur le hg de l'afpy::
+
+    hg add votre_fichier.py
+    hg commit -m "votre message" -u username
+    hg push
 
 Si vous souhaitez uniquement proposer un article, vous pouvez utiliser la
 fonctionalité de "draft" de pelican, il suffit de mettre ":status: draft"
