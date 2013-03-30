@@ -14,7 +14,7 @@ souhaitent. La procédure est simple:
     hg clone http://hg.afpy.org/blog
 
 - vérifier que le blog se compile bien correctement: après avoir installer
-pelican en local, taper::
+  pelican en local, taper::
 
     make install
 
